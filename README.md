@@ -1,7 +1,7 @@
 # Data_Visualization_With_Python
 
 <h1>Overview</h1>
-Visualiztion of Iris datset using Python library Pandas, Matplotlib and Seaborn .
+Visualization of Iris datset using Python library Pandas, Matplotlib and Seaborn .
 
 The iris data set is most widely used beginner's dataset for machine learning purposes. 
 
