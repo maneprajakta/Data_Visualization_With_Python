@@ -11,19 +11,20 @@ Data set Attribute:
 3. petal length in cm
 4. petal width in cm
 5. Species (class):
--- Iris Setosa
--- Iris Versicolour
--- Iris Virginica
+<br>-- Iris Setosa
+<br>-- Iris Versicolour
+<br>-- Iris Virginica
 
-The dataset contains 150 samples  also having four features; length and width of sepals and petals and 50 samples of these three species.
+The dataset contains 150 samples  also having four features:length and width of sepals and petals and 50 samples of these three species.
  
 The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 
 <h1>By Visualizing the dataset what we find</h1>
-The dataset contain two clusters with complete sepration 1.Iris setosa  
-2.Iris virginica ,Iris versicolor 
+The dataset contain two clusters with complete sepration:
+<br>1.Iris setosa  
+<br>2.Iris virginica ,Iris versicolor 
 
 Machile leraning algorithm :
-1.Classifiction -supervised learning 
-2.K means clustering -unsupervised learning 
+<br>1.Classifiction -supervised learning 
+<br>2.K means clustering -unsupervised learning 
 ca be used to predict the type of species based on other features.
